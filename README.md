@@ -1,4 +1,4 @@
-# Defuse Reveal.js Template
+# Reveal.js auto slide template
 
 Based on the amazing [Reveal.js](http://lab.hakim.se/reveal-js/), this is a super-simple 20 slide presentation template, set to automatically move to the next slide every 15 seconds.
 
